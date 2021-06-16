@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Part>
+	<OriginalFilePath>C:\Users\sholpan.sumbekova\Desktop\CAD_Proposal\From_Colloborators\CT14_NTU\1) Geo\CT14_Medis_Left_level1_original.stl</OriginalFilePath>
+	<ServerFilePath>C:\Users\sholpan.sumbekova\Desktop\CAD_Proposal\From_Colloborators\CT14_NTU\1) Geo\CT14_Medis_Left_level1_original.stl</ServerFilePath>
+	<ImageFilePathBlueBkg>C:\Users\sholpan.sumbekova\Desktop\CAD_Proposal\From_Colloborators\CT14_NTU\1) Geo\svdata\images\CT14_Medis_Left_level1_original.stl.jpg</ImageFilePathBlueBkg>
+	<ImageFilePathWhiteBkg>C:\Users\sholpan.sumbekova\Desktop\CAD_Proposal\From_Colloborators\CT14_NTU\1) Geo\svdata\images\CT14_Medis_Left_level1_original.stl.white.jpg</ImageFilePathWhiteBkg>
+	<LastModifiedTimeUTC>636767518401579259</LastModifiedTimeUTC>
+	<FileSize>851584</FileSize>
+	<Version>2017.0</Version>
+	<Units>in</Units>
+	<OrientationIndex>4</OrientationIndex>
+	<Orientation>zMinus</Orientation>
+	<Volume>0.0925109556432123</Volume>
+	<SurfaceArea>3.9167814857767138</SurfaceArea>
+	<XExtents>2.3720946274404451</XExtents>
+	<YExtents>3.1503859091931443</YExtents>
+	<ZExtents>3.0559053195743111</ZExtents>
+	<SupportsVolume>1.0861967559196533</SupportsVolume>
+	<SupportsArea>0.55047464428118875</SupportsArea>
+	<SupportsBaseArea>0.43449688890692922</SupportsBaseArea>
+	<SupportsWallArea>58.685742078060152</SupportsWallArea>
+	<SupportsHeight>2.972046859621063</SupportsHeight>
+	<SupportsMetrics OrientationIndex="0" Orientation="xMinus">
+		<Units>in</Units>
+		<Volume>0.0925109556432123</Volume>
+		<SurfaceArea>3.9167814857767138</SurfaceArea>
+		<XExtents>3.0559052820280783</XExtents>
+		<YExtents>3.1503859091931443</YExtents>
+		<ZExtents>2.3720904973548231</ZExtents>
+		<SupportsVolume>0.67515891241865211</SupportsVolume>
+		<SupportsArea>0.5943642261957347</SupportsArea>
+		<SupportsBaseArea>0.44680217492782004</SupportsBaseArea>
+		<SupportsWallArea>41.223638944775125</SupportsWallArea>
+		<SupportsHeight>2.3230965681902069</SupportsHeight>
+	</SupportsMetrics>
+	<SupportsMetrics OrientationIndex="1" Orientation="xPlus">
+		<Units>in</Units>
+		<Volume>0.0925109556432123</Volume>
+		<SurfaceArea>3.9167814857767138</SurfaceArea>
+		<XExtents>3.0559052820280783</XExtents>
+		<YExtents>3.1503859091931443</YExtents>
+		<ZExtents>2.3720904973548231</ZExtents>
+		<SupportsVolume>0.37828282328622503</SupportsVolume>
+		<SupportsArea>0.60627271307400665</SupportsArea>
+		<SupportsBaseArea>0.43229273188659956</SupportsBaseArea>
+		<SupportsWallArea>20.278925346794662</SupportsWallArea>
+		<SupportsHeight>2.1925570270207926</SupportsHeight>
+	</SupportsMetrics>
+	<SupportsMetrics OrientationIndex="2" Orientation="yMinus">
+		<Units>in</Units>
+		<Volume>0.0925109556432123</Volume>
+		<SurfaceArea>3.9167814857767138</SurfaceArea>
+		<XExtents>2.3720946274404451</XExtents>
+		<YExtents>3.0559053946667771</YExtents>
+		<ZExtents>3.150389663816437</ZExtents>
+		<SupportsVolume>0.91688583531376611</SupportsVolume>
+		<SupportsArea>0.65040622387027169</SupportsArea>
+		<SupportsBaseArea>0.490105852683271</SupportsBaseArea>
+		<SupportsWallArea>51.27853371919641</SupportsWallArea>
+		<SupportsHeight>3.0966829314945254</SupportsHeight>
+	</SupportsMetrics>
+	<SupportsMetrics OrientationIndex="3" Orientation="yPlus">
+		<Units>in</Units>
+		<Volume>0.0925109556432123</Volume>
+		<SurfaceArea>3.9167814857767138</SurfaceArea>
+		<XExtents>2.3720946274404451</XExtents>
+		<YExtents>3.0559053946667771</YExtents>
+		<ZExtents>3.150389663816437</ZExtents>
+		<SupportsVolume>0.69196537717658135</SupportsVolume>
+		<SupportsArea>0.67909017287203277</SupportsArea>
+		<SupportsBaseArea>0.52495952139262858</SupportsBaseArea>
+		<SupportsWallArea>43.212640361376636</SupportsWallArea>
+		<SupportsHeight>3.0969703854538326</SupportsHeight>
+	</SupportsMetrics>
+	<SupportsMetrics OrientationIndex="4" Orientation="zMinus">
+		<Units>in</Units>
+		<Volume>0.0925109556432123</Volume>
+		<SurfaceArea>3.9167814857767138</SurfaceArea>
+		<XExtents>2.3720946274404451</XExtents>
+		<YExtents>3.1503859091931443</YExtents>
+		<ZExtents>3.0559053195743111</ZExtents>
+		<SupportsVolume>1.0861967559196533</SupportsVolume>
+		<SupportsArea>0.55047464428118875</SupportsArea>
+		<SupportsBaseArea>0.43449688890692922</SupportsBaseArea>
+		<SupportsWallArea>58.685742078060152</SupportsWallArea>
+		<SupportsHeight>2.972046859621063</SupportsHeight>
+	</SupportsMetrics>
+	<SupportsMetrics OrientationIndex="5" Orientation="zPlus">
+		<Units>in</Units>
+		<Volume>0.0925109556432123</Volume>
+		<SurfaceArea>3.9167814857767138</SurfaceArea>
+		<XExtents>2.3720946274404451</XExtents>
+		<YExtents>3.1503859091931443</YExtents>
+		<ZExtents>3.0559053195743111</ZExtents>
+		<SupportsVolume>0.21920468590365502</SupportsVolume>
+		<SupportsArea>0.55926087063618446</SupportsArea>
+		<SupportsBaseArea>0.45583240193401409</SupportsBaseArea>
+		<SupportsWallArea>17.326614334444852</SupportsWallArea>
+		<SupportsHeight>3.0106287678395671</SupportsHeight>
+	</SupportsMetrics>
+</Part>
