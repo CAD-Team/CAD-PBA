@@ -1,0 +1,9 @@
+ 2018/10/16 17:02:49 
+CCLAPI::validateCCLData - CCL validation failed with message:
+Error: Parameter 'Mass Flow Rate Area' is not allowed in /FLOW:Flow Analysis 1/DOMAIN:Default Domain/BOUNDARY:inlet/BOUNDARY CONDITIONS/MASS AND MOMENTUM
+Error: Parameter 'Write System Coupling Input' is not allowed in /SIMULATION CONTROL/EXECUTION CONTROL
+Error: Parameter 'Large Problem' is not allowed in /SIMULATION CONTROL/EXECUTION CONTROL/EXECUTABLE SELECTION
+Error: Sub-object 'PARTITION SMOOTHING' is not allowed in /SIMULATION CONTROL/EXECUTION CONTROL/PARTITIONER STEP CONTROL
+Error: Value 'Automatic' is not allowed for parameter /SIMULATION CONTROL/EXECUTION CONTROL/PARTITIONER STEP CONTROL/Multidomain Option
+Warning: Can't check object /SIMULATION CONTROL/EXECUTION CONTROL/PARTITIONER STEP CONTROL/PARTITION SMOOTHING: Can't find rule.  Skipping object and all children.
+
